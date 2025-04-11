@@ -32,5 +32,3 @@ This project detects driver drowsiness using computer vision. It uses **OpenCV**
 - Real-time drowsiness detection using eye aspect ratio.
 - Alert the driver when drowsiness is detected.
 
-## 📽 Video Demonstration
-[Insert link to a demo video or GIF showcasing the project]
